@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @sayed-masud
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-sayed-masud/sayed-masud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Kazi Sayed Hossain
+M.Sc in CSE at Jagannath University (JnU)
+B.Sc in CSE at University of Information Technology & Sciences (UITS)
+Email: sayedmasud69@gmail.com
