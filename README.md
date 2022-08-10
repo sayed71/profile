@@ -34,7 +34,7 @@ Experienced Senior Programmer with a demonstrated history of working in the publ
 - Address: 43, Shilpacharya Zainul Abedin Sarak (Old 16 Shantinagar), Dhaka-121743, Shilpacharya Zainul Abedin Sarak (Old 16 Shantinagar), Dhaka-1217.
 - Website: https://panjeree.com
 
-Job Responsibilities:
+>> Job Responsibilities:
 - Develop any Module Based on Client Requirements.
 - Application Development (Design and Coding).
 - Application Testing and Debugging.
@@ -44,7 +44,7 @@ Job Responsibilities:
 - Maintenance of Existing Software.
 - Also, Some User Support Work.
 
-Development Projects:
+>> Development Projects:
 1. Panjeree ERP System (Web Version).
 2. Panjeree ERP System (Desktop Version).
 3. Panjeree E-commerce (PBS.COM.BD).
@@ -58,10 +58,10 @@ Development Projects:
 - Address: 60 No. Omar Ali Lane (1st floor), Rampura, Dhaka.60 No. Omar Ali Lane (1st floor), Rampura, Dhaka.
 - Website: https://www.spwave.info
 
-- Job Responsibility: 
+>> Job Responsibility: 
 Web Application Development Using PHP, CodeIgniter, MySQL, JavaScript, jQuery, Ajax, jQuery UI, jQuery Mobile, Bootstrap, HTML, CSS etc.
 
-Development Projects:
+>> Development Projects:
 1. Modern Herbal (ERP System).
 2. Deposit Management System (Prime Finance).
 3. Stock Portfolio Management System (Prime Finance).
