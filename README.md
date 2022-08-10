@@ -29,7 +29,7 @@ Experienced Senior Programmer with a demonstrated history of working in the publ
 
 
 >> Job Experience:
-1. Senior Programmer at Panjeree Publications Ltd.
+# Senior Programmer at Panjeree Publications Ltd.
 Duration: May 2016 - Jul 2021 (5 yrs 3 months).
 Address: 43, Shilpacharya Zainul Abedin Sarak (Old 16 Shantinagar), Dhaka-121743, Shilpacharya Zainul Abedin Sarak (Old 16 Shantinagar), Dhaka-1217.
 Website: https://panjeree.com
@@ -56,7 +56,7 @@ Development Projects:
 6. API Related Work (New API Development, Integration Payment Gateway & SMS API).
 7. Also PHP Based Applications (CV Bank, MKT Institutional Module, Lottery System, Facebook Campaign etc.)
 
-2. Programmer at SP Wave.
+# Programmer at SP Wave.
 Duration: Jan 2015 - Apr 2016 (1 yr 4 months).
 Address: 60 No. Omar Ali Lane (1st floor), Rampura, Dhaka.60 No. Omar Ali Lane (1st floor), Rampura, Dhaka.
 Website: https://www.spwave.info
