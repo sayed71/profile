@@ -59,7 +59,7 @@ Experienced Senior Programmer with a demonstrated history of working in the publ
 - Website: https://www.spwave.info
 
 >> Job Responsibility: 
-Web Application Development Using PHP, CodeIgniter, MySQL, JavaScript, jQuery, Ajax, jQuery UI, jQuery Mobile, Bootstrap, HTML, CSS etc.
+- Web Application Development Using PHP, CodeIgniter, MySQL, JavaScript, jQuery, Ajax, jQuery UI, jQuery Mobile, Bootstrap, HTML, CSS etc.
 
 >> Development Projects:
 1. Modern Herbal (ERP System).
