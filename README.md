@@ -30,12 +30,9 @@ Experienced Senior Programmer with a demonstrated history of working in the publ
 
 # Job Experience:
 # Senior Programmer at Panjeree Publications Ltd.
-- Duration: May 2016 - Jul 2021 (5 yrs 3 months).
+- Development Technology: ASP.Net WebForms C#, ASP.Net Core C#, WinForms C#, PHP, MySQL, MS SQL Server, MS Access 2003, SAP Crystal Report, JavaScript, jQuery, HTML, CSS, jQueryUI, Bootstrap etc.
 - Address: 43, Shilpacharya Zainul Abedin Sarak (Old 16 Shantinagar), Dhaka-121743, Shilpacharya Zainul Abedin Sarak (Old 16 Shantinagar), Dhaka-1217.
 - Website: https://panjeree.com
-
-- Technology / Language Used:
-ASP.Net WebForms C#, ASP.Net Core C#, WinForms C#, PHP, MySQL, MS SQL Server, MS Access 2003, SAP Crystal Report, JavaScript, jQuery, HTML, CSS, jQueryUI, Bootstrap etc.
 
 Job Responsibilities:
 - Develop any Module Based on Client Requirements.
@@ -57,7 +54,7 @@ Development Projects:
 7. Also PHP Based Applications (CV Bank, MKT Institutional Module, Lottery System, Facebook Campaign etc.)
 
 # Programmer at SP Wave.
-- Duration: Jan 2015 - Apr 2016 (1 yr 4 months).
+- Development Tools: PHP, MySQL, JavaScript, jQuery, Bootstrap, HTML, CSS etc.
 - Address: 60 No. Omar Ali Lane (1st floor), Rampura, Dhaka.60 No. Omar Ali Lane (1st floor), Rampura, Dhaka.
 - Website: https://www.spwave.info
 
