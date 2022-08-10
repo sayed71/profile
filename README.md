@@ -1,14 +1,14 @@
->> About:
-Name: Kazi Sayed Hossain.
-B.Sc in CSE at University of Information Technology & Sciences (UITS).
-M.Sc in CSE Jagannath University (JnU).
-Email: sayedmasud69@gmail.com
-Linkedin: linkedin.com/in/sayedmasud
+# About:
+- Name: Kazi Sayed Hossain.
+- B.Sc in CSE at University of Information Technology & Sciences (UITS).
+- M.Sc in CSE Jagannath University (JnU).
+- Email: sayedmasud69@gmail.com
+- Linkedin: linkedin.com/in/sayedmasud
 
 Experienced Senior Programmer with a demonstrated history of working in the publishing industry. Skilled in PHP, jQuery, HTML, JavaScript, ASP.Net Core C#, ASP.Net WebForms C#, C# WinForm Strong engineering professional with a Master of Science - M.Sc focused in Computer Science and Engineering (CSE) from Jagannath University.
 
 
->> Key Achievements:
+# Key Achievements:
 - Most of My Working Experience as a Web Application Developer.
 - Panjeree ERP Software Development using WinForms C#.
 - Panjeree ERP Software (Web Version) Development using ASP.Net WebForms C#.
@@ -18,7 +18,7 @@ Experienced Senior Programmer with a demonstrated history of working in the publ
 - Also, Dynamic Website Development using PHP.
 
 
->> Professional Skills: 
+# Professional Skills: 
 - Language: ASP.Net WebForms C#, ASP.Net Core C#, Windows Forms C#, Microsoft Dot Net Framework, PHP, CodeIgniter, JavaScript, jQuery.
 - Database: Microsoft SQL Server, MySQL, Microsoft Access Database 2003.
 - Reporting Tools: SAP Crystal Report (WebForms and WinForms C#), FPDF Library (PHP).
@@ -28,7 +28,7 @@ Experienced Senior Programmer with a demonstrated history of working in the publ
 - Development Tools: Visual Studio 2015, Visual Studio 2019, SQL Server 2016, SAP Crystal Report, XAMPP/ WAMP, SQLyog, Browser, VS Code, Sublime Text, etc.
 
 
->> Job Experience:
+# Job Experience:
 # Senior Programmer at Panjeree Publications Ltd.
 Duration: May 2016 - Jul 2021 (5 yrs 3 months).
 Address: 43, Shilpacharya Zainul Abedin Sarak (Old 16 Shantinagar), Dhaka-121743, Shilpacharya Zainul Abedin Sarak (Old 16 Shantinagar), Dhaka-1217.
