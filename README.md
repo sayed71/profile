@@ -54,7 +54,7 @@ Experienced Senior Programmer with a demonstrated history of working in the publ
 7. Also PHP Based Applications (CV Bank, MKT Institutional Module, Lottery System, Facebook Campaign etc.)
 
 # Programmer at SP Wave.
-- Development Tools: PHP, MySQL, JavaScript, jQuery, Bootstrap, HTML, CSS etc.
+- Development Technology: PHP, MySQL, JavaScript, jQuery, Bootstrap, HTML, CSS etc.
 - Address: 60 No. Omar Ali Lane (1st floor), Rampura, Dhaka.60 No. Omar Ali Lane (1st floor), Rampura, Dhaka.
 - Website: https://www.spwave.info
 
