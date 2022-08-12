@@ -16,7 +16,7 @@ Experienced Senior Programmer with a demonstrated history of working in the publ
 
 ### Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=sayed-masud&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Mostafa+Nizam's+GitHub+Stats&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sayed-masud&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Kazi+Sayed+Hossain's+GitHub+Stats&show_icons=true"/>
 
 ---
 
