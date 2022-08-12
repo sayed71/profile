@@ -7,7 +7,7 @@
 - M.Sc in CSE Jagannath University (JnU).
 - B.Sc in CSE at University of Information Technology & Sciences (UITS).
 - Email: sayedmasud69@gmail.com
-- Linkedin: <a href="https://www.linkedin.com/in/sayedmasud/" target="_blank">
+- Linkedin: linkedin.com/in/sayedmasud
 
 Experienced Senior Programmer with a demonstrated history of working in the publishing industry. Skilled in PHP, jQuery, HTML, JavaScript, ASP.Net Core C#, ASP.Net WebForms C#, C# WinForm Strong engineering professional with a Master of Science - M.Sc focused in Computer Science and Engineering (CSE) from Jagannath University.
 
