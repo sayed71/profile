@@ -84,4 +84,25 @@ Experienced Senior Programmer with a demonstrated history of working in the publ
 5. Attendance Software etc.
 
 
+---
+
+### Send me a message!
+  
+  - I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
+  
+ <p>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sayedmasud69@gmail.com&su=SUBJECT&body=BODY">
+  <img
+    alt="Gmail"
+    src="https://img.shields.io/badge/Gmail-1DA1F2?logo=gmail&logoColor=white&style=for-the-badge"
+  />
+</a>
+<a href="https://www.linkedin.com/in/sayedmasud/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
+</p>
+
 
