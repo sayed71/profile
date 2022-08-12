@@ -88,7 +88,7 @@ Experienced Senior Programmer with a demonstrated history of working in the publ
 
 ### Send me a message!
   
-  - I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
+  I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
   
  <p>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sayedmasud69@gmail.com&su=&body=" target="_blank">
