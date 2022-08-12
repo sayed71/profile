@@ -12,6 +12,19 @@
 Experienced Senior Programmer with a demonstrated history of working in the publishing industry. Skilled in PHP, jQuery, HTML, JavaScript, ASP.Net Core C#, ASP.Net WebForms C#, C# WinForm Strong engineering professional with a Master of Science - M.Sc focused in Computer Science and Engineering (CSE) from Jagannath University.
 
 
+---
+
+### Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=sayed-masud&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Mostafa+Nizam's+GitHub+Stats&show_icons=true"/>
+
+---
+
+### Top Languages Card
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayed-masud)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # Key Achievements:
 - Most of My Working Experience as a Web Application Developer.
 - Panjeree ERP Software Development using WinForms C#.
@@ -73,14 +86,4 @@ Experienced Senior Programmer with a demonstrated history of working in the publ
 5. Attendance Software etc.
 
 
----
 
-### Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=sayed-masud&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Mostafa+Nizam's+GitHub+Stats&show_icons=true"/>
-
----
-
-### Top Languages Card
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayed-masud)](https://github.com/anuraghazra/github-readme-stats)
