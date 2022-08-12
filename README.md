@@ -4,8 +4,8 @@
 
 # About:
 - Name: Kazi Sayed Hossain.
-- B.Sc in CSE at University of Information Technology & Sciences (UITS).
 - M.Sc in CSE Jagannath University (JnU).
+- B.Sc in CSE at University of Information Technology & Sciences (UITS).
 - Email: sayedmasud69@gmail.com
 - Linkedin: linkedin.com/in/sayedmasud
 
