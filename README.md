@@ -9,7 +9,7 @@
 - Email: sayedmasud69@gmail.com
 - Linkedin: linkedin.com/in/sayedmasud
 
-Experienced Senior Programmer with a demonstrated history of working in the publishing industry. Skilled in PHP, jQuery, HTML, JavaScript, ASP.Net Core C#, ASP.Net WebForms C#, C# WinForm Strong engineering professional with a Master of Science - M.Sc focused in Computer Science and Engineering (CSE) from Jagannath University.
+Experienced Senior Programmer with a demonstrated history of working in the publishing industry. Skilled in ASP.Net Core C#, ASP.Net WebForms C#, WinForms C#, PHP, MS SQL Server, MySQL, JavaScript, jQuery, Bootstrap, HTML, CSS  Strong engineering professional with a Master of Science - M.Sc focused in Computer Science and Engineering (CSE) from Jagannath University.
 
 
 
