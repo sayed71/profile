@@ -1,4 +1,5 @@
-![KAZI SAYED HOSSAIN](https://user-images.githubusercontent.com/83280369/184298965-d23b5a88-374e-4584-9a73-748214b2aa89.jpg)
+![KAZI SAYED HOSSAIN (1)](https://user-images.githubusercontent.com/83280369/184299575-e2c19e97-0aaf-46be-bb25-27e89e62aed1.jpg)
+
 
 
 # About:
