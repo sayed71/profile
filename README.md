@@ -2,7 +2,7 @@
 
 
 
-# About:
+## About:
 - Name: Kazi Sayed Hossain.
 - M.Sc in CSE Jagannath University (JnU).
 - B.Sc in CSE at University of Information Technology & Sciences (UITS).
@@ -14,18 +14,18 @@ Experienced Senior Programmer with a demonstrated history of working in the publ
 
 ---
 
-### Github Stats
+## Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=sayed-masud&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Kazi+Sayed+Hossain's+GitHub+Stats&show_icons=true"/>
 
 ---
 
-### Top Languages Card
+## Top Languages Card
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayed-masud)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# Key Achievements:
+## Key Achievements:
 - Most of My Working Experience as a Web Application Developer.
 - Panjeree ERP Software Development using WinForms C#.
 - Panjeree ERP Software (Web Version) Development using ASP.Net WebForms C#.
@@ -35,7 +35,7 @@ Experienced Senior Programmer with a demonstrated history of working in the publ
 - Also, Dynamic Website Development using PHP.
 
 
-# Professional Skills: 
+## Professional Skills: 
 - Language: ASP.Net WebForms C#, ASP.Net Core C#, Windows Forms C#, Microsoft Dot Net Framework, PHP, CodeIgniter, JavaScript, jQuery.
 - Database: Microsoft SQL Server, MySQL, Microsoft Access Database 2003.
 - Reporting Tools: SAP Crystal Report (WebForms and WinForms C#), FPDF Library (PHP).
@@ -45,8 +45,8 @@ Experienced Senior Programmer with a demonstrated history of working in the publ
 - Development Tools: Visual Studio 2015, Visual Studio 2019, SQL Server 2016, SAP Crystal Report, XAMPP/ WAMP, SQLyog, Browser, VS Code, Sublime Text, etc.
 
 
-# Job Experience:
-# Senior Programmer at Panjeree Publications Ltd.
+## Job Experience:
+### Senior Programmer at Panjeree Publications Ltd.
 - Development Technology: ASP.Net WebForms C#, ASP.Net Core C#, WinForms C#, PHP, MySQL, MS SQL Server, MS Access 2003, SAP Crystal Report, JavaScript, jQuery, HTML, CSS, jQueryUI, Bootstrap etc.
 - Address: 43, Shilpacharya Zainul Abedin Sarak (Old 16 Shantinagar), Dhaka-121743, Shilpacharya Zainul Abedin Sarak (Old 16 Shantinagar), Dhaka-1217.
 - Website: https://panjeree.com
@@ -70,7 +70,7 @@ Experienced Senior Programmer with a demonstrated history of working in the publ
 6. API Related Work (New API Development, Integration Payment Gateway & SMS API).
 7. Also PHP Based Applications (CV Bank, MKT Institutional Module, Lottery System, Facebook Campaign etc.)
 
-# Programmer at SP Wave.
+### Programmer at SP Wave.
 - Development Technology: PHP, MySQL, JavaScript, jQuery, Bootstrap, HTML, CSS etc.
 - Address: 60 No. Omar Ali Lane (1st floor), Rampura, Dhaka.60 No. Omar Ali Lane (1st floor), Rampura, Dhaka.
 - Website: https://www.spwave.info
