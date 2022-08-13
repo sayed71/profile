@@ -85,8 +85,6 @@ Experienced Senior Programmer with a demonstrated history of working in the publ
 5. Attendance Software etc.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZO53KrVUCtM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 ## Send me a Message!
   
