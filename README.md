@@ -11,13 +11,13 @@
 <a href="https://pbs.com.bd" target="_blank">
   <img
     alt="Last Dev. Project"
-    src="https://img.shields.io/static/v1?label=&message=Last Dev. Project&color=lightgrey&style=for-the-badge"
+    src="https://img.shields.io/static/v1?label=&message=Last Dev. Project&color=blue&style=for-the-badge"
   />
 </a>
 <a href="https://github.com/stars/sayed-masud/lists/featured-work" target="_blank">
   <img
     alt="Featured Work"
-    src="https://img.shields.io/static/v1?label=&message=Featured Work&color=lightgrey&style=for-the-badge"
+    src="https://img.shields.io/static/v1?label=&message=Featured Work&color=blue&style=for-the-badge"
   />
 </a>
  <a href="https://youtu.be/ZO53KrVUCtM" target="_blank">
