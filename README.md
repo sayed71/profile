@@ -1,7 +1,32 @@
 ![](https://komarev.com/ghpvc/?username=sayed-masud&color=green&label=Profile+Views)
 ![KAZI SAYED HOSSAIN (1)](https://user-images.githubusercontent.com/83280369/184299575-e2c19e97-0aaf-46be-bb25-27e89e62aed1.jpg)
 
-
+ <p>
+ <a href="https://github.com/sayed-masud" target="_blank">
+  <img
+    alt="Home Page"
+    src="https://img.shields.io/static/v1?label=&message=Home Page&color=lightgrey&style=for-the-badge"
+  />
+</a>
+<a href="https://pbs.com.bd" target="_blank">
+  <img
+    alt="Last Dev. Project"
+    src="https://img.shields.io/static/v1?label=&message=Last Dev. Project&color=lightgrey&style=for-the-badge"
+  />
+</a>
+<a href="https://github.com/stars/sayed-masud/lists/featured-work" target="_blank">
+  <img
+    alt="Featured Work"
+    src="https://img.shields.io/static/v1?label=&message=Featured Work&color=lightgrey&style=for-the-badge"
+  />
+</a>
+ <a href="https://youtu.be/ZO53KrVUCtM" target="_blank">
+  <img
+    alt="Portfolio"
+    src="https://img.shields.io/static/v1?label=&message=Work Portfolio&color=red&style=for-the-badge"
+  />
+</a>
+</p>
 
 ## About:
 - Name: Kazi Sayed Hossain
