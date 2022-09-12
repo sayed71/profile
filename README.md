@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=sayed-masud&color=green&label=Profile+Views)
 ![KAZI SAYED HOSSAIN (1)](https://user-images.githubusercontent.com/83280369/184299575-e2c19e97-0aaf-46be-bb25-27e89e62aed1.jpg)
 
  <p>
