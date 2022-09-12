@@ -118,7 +118,7 @@ I am a highly motivated software engineer interested in back-end and front-end, 
 - Email: sayedmasud69@gmail.com
 - Linkedin: linkedin.com/in/sayedmasud
 - Website: sayed-masud.github.io
-- Address: Dhaka, Bangladesh
+- Location: Dhaka, Bangladesh
 
 
 ## Send me a Message!
