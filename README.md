@@ -34,16 +34,13 @@
 </a>
 </p>
 
-## About:
-- Name: Kazi Sayed Hossain
-- M.Sc in CSE Jagannath University (JnU).
-- B.Sc in CSE at University of Information Technology & Sciences (UITS).
-- Email: sayedmasud69@gmail.com
-- Linkedin: linkedin.com/in/sayedmasud
-
+## Career Summary:
 I am a highly motivated software engineer interested in back-end and front-end, passionate about learning and developing large-scale projects using modern technologies.
 
-
+## Education:
+- M.Sc in CSE Jagannath University (JnU).
+- B.Sc in CSE at University of Information Technology & Sciences (UITS).
+- Diploma in Computer Technology at Feni Polytechnic Institute.
 
 ## Github Stats:
 
@@ -115,6 +112,13 @@ I am a highly motivated software engineer interested in back-end and front-end, 
 4. Online Mobile Recharge Application.
 5. Attendance Software etc.
 
+
+## Personal Information:
+- Name: Kazi Sayed Hossain
+- Email: sayedmasud69@gmail.com
+- Linkedin: linkedin.com/in/sayedmasud
+- Website: sayed-masud.github.io
+- Address: Dhaka, Bangladesh
 
 
 ## Send me a Message!
