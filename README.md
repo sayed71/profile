@@ -120,6 +120,14 @@ I am a highly motivated software engineer interested in back-end and front-end, 
 5. Attendance Software etc.
 
 
+## Professional Portfolio:
+<ul>
+<li><a href="https://sayed-masud.github.io" title="Portfolio Website">Portfolio Website</a></li>
+<li><a href="https://www.youtube.com/embed/gq-fNaTUf9Y" title="Video Portfolio">Video Portfolio</a></li>
+<li><a href="https://github.com/sayed-masud/portfolio" title="Portfolio GitHub">Portfolio GitHub</a></li>
+</ul>
+
+
 ## Personal Information:
 - Name: Kazi Sayed Hossain
 - Email: sayedmasud69@gmail.com
