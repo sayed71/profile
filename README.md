@@ -125,14 +125,15 @@ I am a highly motivated software engineer interested in back-end and front-end, 
 <li><a href="https://sayed-masud.github.io" title="Portfolio Website">Portfolio Website</a></li>
 <li><a href="https://www.youtube.com/embed/gq-fNaTUf9Y" title="Video Portfolio">Video Portfolio</a></li>
 <li><a href="https://github.com/sayed-masud/portfolio" title="Portfolio GitHub">Portfolio GitHub</a></li>
+<li><a href="https://www.linkedin.com/in/sayedmasud/details/projects" title="Linkedin Projects">Linkedin Projects</a></li>
 </ul>
 
 
 ## Personal Information:
 - Name: Kazi Sayed Hossain
 - Email: sayedmasud69@gmail.com
-- Linkedin: linkedin.com/in/sayedmasud
-- Website: sayed-masud.github.io
+- Linkedin: <a href="linkedin.com/in/sayedmasud" title="Linkedin Profile">linkedin.com/in/sayedmasud</a></li>
+- Website: <a href="sayed-masud.github.io" title="GitHub Profile">sayed-masud.github.io</a></li>
 - Location: Dhaka, Bangladesh
 
 
