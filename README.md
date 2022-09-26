@@ -61,18 +61,18 @@ I am a highly motivated software engineer interested in back-end and front-end, 
 
 ## Key Achievements:
 - Most of My Working Experience as a Web Application Developer.
-- Panjeree ERP Software Development using WinForms C#.
-- Panjeree ERP Software (Web Version) Development using ASP.Net WebForms C#.
-- Strong Programming Skills and Highly Proficient in ASP.Net WebForms C#, ASP.Net Core C#, WinForms C#, PHP, CodeIgniter, MS SQL Server, MySQL, MS Access DB, SAP Crystal Report, JavaScript, jQuery, Ajax, Bootstrap, jQuery UI & Mobile, EasyUI, HTML, CSS, PSD to HTML Conversion, etc.
+- Panjeree ERP Software Development using C#.Net WinForms.
+- Panjeree ERP Software (Web Version) Development using ASP.Net WebForms.
+- Strong Programming Skills and Highly Proficient in ASP.Net WebForms, ASP.Net Core, C#.Net WinForms, PHP, CodeIgniter, MS SQL Server, MySQL, MS Access DB, SAP Crystal Report, JavaScript, jQuery, Ajax, Bootstrap, jQuery UI & Mobile, EasyUI, HTML, CSS, PSD to HTML Conversion, etc.
 - Expertise with Database View, Function, Store Procedure, Trigger, Strong SQL Queries, and Transactional Securities.
 - Customized Report Development using SAP Crystal Report, FPDF Library, DataTable and HTML.
 - Also, Dynamic Website Development using PHP.
 
 
 ## Professional Skills: 
-- Language: ASP.Net WebForms C#, ASP.Net Core C#, Windows Forms C#, Microsoft Dot Net Framework, PHP, CodeIgniter, JavaScript, jQuery.
+- Language: ASP.Net WebForms, ASP.Net Core, C#.Net WinForms, PHP, CodeIgniter, JavaScript, jQuery.
 - Database: Microsoft SQL Server, MySQL, Microsoft Access Database 2003.
-- Reporting Tools: SAP Crystal Report (WebForms and WinForms C#), FPDF Library (PHP).
+- Reporting Tools: SAP Crystal Report (ASP.Net WebForms and C#.Net WinForms), FPDF Library (PHP).
 - Web Design: HTML, CSS, Bootstrap and PSD to HTML Conversion. 
 - Web API: SSLCOMMERZ Payment and SMS API, ADN SMS API, Facebook API, etc.
 - Other Library: jQuery UI and Mobile, EasyUI, Treant.js, jQuery DataTables, Select2, WYSIWYG Editor, Google Chart & Map, and Graph Library (Gantt Chart, Sunburst), etc. 
@@ -81,7 +81,7 @@ I am a highly motivated software engineer interested in back-end and front-end, 
 
 ## Job Experience:
 ### Senior Programmer at Panjeree Publications Ltd.
-- Development Technology: ASP.Net WebForms C#, ASP.Net Core C#, WinForms C#, PHP, MySQL, MS SQL Server, MS Access 2003, SAP Crystal Report, JavaScript, jQuery, HTML, CSS, jQueryUI, Bootstrap etc.
+- Development Technology: ASP.Net WebForms, ASP.Net Core, C#.Net WinForms, PHP, MySQL, MS SQL Server, MS Access 2003, SAP Crystal Report, JavaScript, jQuery, HTML, CSS, jQueryUI, Bootstrap etc.
 - Address: 43, Shilpacharya Zainul Abedin Sarak (Old 16 Shantinagar), Dhaka-121743, Shilpacharya Zainul Abedin Sarak (Old 16 Shantinagar), Dhaka-1217.
 - Website: https://panjeree.com
 
