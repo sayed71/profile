@@ -63,7 +63,7 @@ I am a highly motivated software engineer interested in back-end and front-end, 
 - Most of My Working Experience as a Web Application Developer.
 - Panjeree ERP Software Development using C#.Net WinForms.
 - Panjeree ERP Software (Web Version) Development using ASP.Net WebForms.
-- Strong Programming Skills and Highly Proficient in ASP.Net WebForms, ASP.Net Core, C#.Net WinForms, PHP, CodeIgniter, MS SQL Server, MySQL, MS Access DB, SAP Crystal Report, JavaScript, jQuery, Ajax, Bootstrap, jQuery UI & Mobile, EasyUI, HTML, CSS, PSD to HTML Conversion, etc.
+- Strong Programming Skills and Highly Proficient in ASP.Net WebForms, ASP.Net Core, C#.Net WinForms, PHP, CodeIgniter, MS SQL Server, MySQL, MS Access DB, SAP Crystal Report, JavaScript, jQuery, Ajax, Bootstrap, jQuery UI, jQuery Mobile, EasyUI, HTML, CSS, PSD to HTML Conversion, etc.
 - Expertise with Database View, Function, Store Procedure, Trigger, Strong SQL Queries, and Transactional Securities.
 - Customized Report Development using SAP Crystal Report, FPDF Library, DataTable and HTML.
 - Also, Dynamic Website Development using PHP.
