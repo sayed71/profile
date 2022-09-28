@@ -95,7 +95,7 @@ I am a highly motivated software engineer interested in back-end and front-end, 
 - Maintenance of Existing Software.
 - Also, Some User Support Work.
 
->> Development Projects:
+>> Major Projects:
 1. Panjeree ERP System (Web Version).
 2. Panjeree ERP System (Desktop Version).
 3. Panjeree E-commerce (PBS.COM.BD).
@@ -112,7 +112,7 @@ I am a highly motivated software engineer interested in back-end and front-end, 
 >> Job Responsibility: 
 - Web Application Development Using PHP, CodeIgniter, MySQL, JavaScript, jQuery, Ajax, jQuery UI, jQuery Mobile, Bootstrap, HTML, CSS etc.
 
->> Development Projects:
+>> Major Projects:
 1. Modern Herbal (ERP System).
 2. Deposit Management System (Prime Finance).
 3. Stock Portfolio Management System (Prime Finance).
