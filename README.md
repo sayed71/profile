@@ -49,14 +49,15 @@ I am a highly motivated software engineer interested in back-end and front-end, 
 - B.Sc in CSE at University of Information Technology & Sciences (UITS).
 - Diploma in Computer Technology at Feni Polytechnic Institute.
 
-## Github Stats:
+<!--## Github Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=sayed-masud&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Kazi+Sayed+Hossain's+GitHub+Stats&show_icons=true"/>-->
 
-<img src="https://github-readme-stats.vercel.app/api?username=sayed-masud&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Kazi+Sayed+Hossain's+GitHub+Stats&show_icons=true"/>
 
+## Github Report:
 
-## Top Languages Card:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayed-masud)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayed-masud)](https://github.com/sayed-masud/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayed-masud&layout=compact&theme=dark)](https://github.com/sayed-masud/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayed-masud&show_icons=true&theme=dark)
 
 
 ## Key Achievements:
