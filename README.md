@@ -118,7 +118,7 @@ I am a highly motivated software engineer interested in back-end and front-end, 
 2. Deposit Management System (Prime Finance).
 3. Stock Portfolio Management System (Prime Finance).
 4. Online Mobile Recharge Application.
-5. Attendance Software etc.
+5. Online Attendance Software (CodeIgniter) etc.
 
 
 ## Professional Portfolio:
