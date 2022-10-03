@@ -1,13 +1,13 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsayed-masud%2Fprofile%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Portfolio+View&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsayed71%2Fprofile%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Portfolio+View&edge_flat=false"/></a>
 
 <!--![KAZI SAYED HOSSAIN (1)](https://user-images.githubusercontent.com/83280369/184299575-e2c19e97-0aaf-46be-bb25-27e89e62aed1.jpg)-->
-![sayedmasud69@gmail com (1)](https://user-images.githubusercontent.com/83280369/193444047-6ff086ee-b2e9-486c-9bd3-6b75c57e0e86.png)
-<!--![sayedmasud69@gmail com (2)](https://user-images.githubusercontent.com/83280369/193444505-fb12ad02-5ea0-4125-bdad-e3e4b7b843cf.png)-->
+![sayed71@gmail com (1)](https://user-images.githubusercontent.com/83280369/193444047-6ff086ee-b2e9-486c-9bd3-6b75c57e0e86.png)
+<!--![sayed71@gmail com (2)](https://user-images.githubusercontent.com/83280369/193444505-fb12ad02-5ea0-4125-bdad-e3e4b7b843cf.png)-->
 
 
 
  <p>
- <a href="https://github.com/sayed-masud" target="_blank">
+ <a href="https://github.com/sayed71" target="_blank">
   <img
     alt="Home Page"
     src="https://img.shields.io/static/v1?label=&message=Home Page&color=lightgrey&style=for-the-badge"
@@ -19,13 +19,13 @@
     src="https://img.shields.io/static/v1?label=&message=Last Project&color=blue&style=for-the-badge"
   />
 </a>
-<a href="https://github.com/sayed-masud/dashboard" target="_blank">
+<a href="https://github.com/sayed71/dashboard" target="_blank">
   <img
     alt="Live Project"
     src="https://img.shields.io/static/v1?label=&message=Live Project&color=blue&style=for-the-badge"
   />
 </a>
-<a href="https://github.com/stars/sayed-masud/lists/featured-work" target="_blank">
+<a href="https://github.com/stars/sayed71/lists/featured-work" target="_blank">
   <img
     alt="Featured Work"
     src="https://img.shields.io/static/v1?label=&message=Featured Work&color=blue&style=for-the-badge"
@@ -37,7 +37,7 @@
     src="https://img.shields.io/static/v1?label=&message=Work Portfolio&color=red&style=for-the-badge"
   />
 </a>
-<a href="https://sayed-masud.github.io/" target="_blank">
+<a href="https://sayed71.github.io/" target="_blank">
   <img
     alt="Portfolio Website"
     src="https://img.shields.io/static/v1?label=&message=Portfolio Website&color=red&style=for-the-badge"
@@ -59,9 +59,9 @@ I am a highly motivated software engineer interested in back-end and front-end, 
 
 <!--## Github Report:
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayed-masud)](https://github.com/sayed-masud/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayed-masud&layout=compact&theme=dark)](https://github.com/sayed-masud/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayed-masud&show_icons=true&theme=dark)-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayed71)](https://github.com/sayed71/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayed71&layout=compact&theme=dark)](https://github.com/sayed71/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayed71&show_icons=true&theme=dark)-->
 
 
 ## Key Achievements:
@@ -127,20 +127,20 @@ I am a highly motivated software engineer interested in back-end and front-end, 
 
 ## Professional Portfolio:
 <ul>
-<li><a href="https://sayed-masud.github.io" title="Portfolio Website">Portfolio Website</a></li>
+<li><a href="https://sayed71.github.io" title="Portfolio Website">Portfolio Website</a></li>
 <li><a href="https://www.youtube.com/embed/gq-fNaTUf9Y" title="Video Portfolio">Video Portfolio</a></li>
-<li><a href="https://github.com/sayed-masud/portfolio" title="Portfolio GitHub">Portfolio GitHub</a></li>
-<li><a href="https://www.linkedin.com/in/sayedmasud/details/projects" title="Linkedin Projects">Linkedin Projects</a></li>
-<li><a href="https://linktr.ee/sayedmasud" title="Portfolio Profile (Linktree)">Portfolio Profile (Linktree)</a></li>
+<li><a href="https://github.com/sayed71/portfolio" title="Portfolio GitHub">Portfolio GitHub</a></li>
+<li><a href="https://www.linkedin.com/in/sayed71/details/projects" title="Linkedin Projects">Linkedin Projects</a></li>
+<li><a href="https://linktr.ee/sayed71" title="Portfolio Profile (Linktree)">Portfolio Profile (Linktree)</a></li>
 <li><a href="https://drive.google.com/file/d/1dUPvCK7I1YI8MfsRLkxRKyqmKtZbmmYt/view" title="Portfolio Profile (Tree View)">Portfolio Profile (Tree View)</a></li>
 </ul>
 
 
 ## Personal Information:
 - Name: Kazi Sayed Hossain
-- Email: sayedmasud69@gmail.com
-- Linkedin: <a href="https://linkedin.com/in/sayedmasud" title="Linkedin Profile">linkedin.com/in/sayedmasud</a></li>
-- Website: <a href="https://sayed-masud.github.io" title="GitHub Profile">sayed-masud.github.io</a></li>
+- Email: sayed2k7@gmail.com
+- Linkedin: <a href="https://linkedin.com/in/sayed71" title="Linkedin Profile">linkedin.com/in/sayed71</a></li>
+- Website: <a href="https://sayed71.github.io" title="GitHub Profile">sayed71.github.io</a></li>
 - Location: Dhaka, Bangladesh
 
 
@@ -149,13 +149,13 @@ I am a highly motivated software engineer interested in back-end and front-end, 
   I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
   
  <p>
-<a href="https://www.linkedin.com/in/sayedmasud/" target="_blank">
+<a href="https://www.linkedin.com/in/sayed71/" target="_blank">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sayedmasud69@gmail.com&su=&body=" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sayed2k7@gmail.com&su=&body=" target="_blank">
   <img
     alt="Gmail"
     src="https://img.shields.io/badge/Gmail-0077B5?logo=gmail&logoColor=red&style=for-the-badge"
@@ -164,4 +164,4 @@ I am a highly motivated software engineer interested in back-end and front-end, 
 </p>
 
 
-<p><< <a href="https://github.com/sayed-masud">Back to Home Page</a></p>
+<p><< <a href="https://github.com/sayed71">Back to Home Page</a></p>
