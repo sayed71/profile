@@ -78,7 +78,7 @@ I am a highly motivated software engineer interested in back-end and front-end, 
 - Language: ASP.Net WebForms, ASP.Net Core, C#.Net WinForms, PHP, CodeIgniter, JavaScript, jQuery.
 - Database: Microsoft SQL Server, MySQL, Microsoft Access Database 2003.
 - Reporting Tools: SAP Crystal Report (ASP.Net WebForms and C#.Net WinForms), FPDF Library (PHP).
-- Web Design: HTML, CSS, Bootstrap and PSD to HTML Conversion. 
+- Web Design: HTML, CSS, Bootstrap, jQuery Mobile and PSD to HTML Conversion. 
 - Web API: SSLCOMMERZ Payment and SMS API, ADN SMS API, Facebook API, etc.
 - Other Library: jQuery UI and Mobile, EasyUI, Treant.js, jQuery DataTables, Select2, WYSIWYG Editor, Google Chart & Map, and Graph Library (Gantt Chart, Sunburst), etc. 
 - Development Tools: Visual Studio 2015, Visual Studio 2019, SQL Server 2016, SAP Crystal Report, GitHub, XAMPP/ WAMP, SQLyog, Browser, VS Code, Sublime Text, etc.
