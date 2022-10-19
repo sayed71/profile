@@ -159,6 +159,12 @@ I am a highly motivated software engineer interested in back-end and front-end, 
     src="https://img.shields.io/badge/Gmail-0077B5?logo=gmail&logoColor=red&style=for-the-badge"
   />
 </a>
+<a href="https://join.skype.com/invite/qZk3qBGCA0mb" target="_blank">
+  <img
+    alt="Skype"
+    src="https://img.shields.io/badge/skype-0077B5?logo=skype&logoColor=white&style=for-the-badge"
+  />
+</a>
 </p>
 
 
