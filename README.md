@@ -130,6 +130,7 @@ I am a highly motivated software engineer interested in back-end and front-end, 
 <li><a href="https://github.com/sayed71/portfolio" title="Portfolio GitHub">Portfolio GitHub</a></li>
 <li><a href="https://www.linkedin.com/in/sayed71/details/projects" title="Linkedin Projects">Linkedin Projects</a></li>
 <li><a href="https://linktr.ee/sayed71" title="Portfolio Profile (Linktree)">Portfolio Profile (Linktree)</a></li>
+<li><a href="https://github.com/sayed71/skills">My Skills</a></li>
 <li><a href="https://drive.google.com/file/d/1dUPvCK7I1YI8MfsRLkxRKyqmKtZbmmYt/view" title="Portfolio Profile (Tree View)">Portfolio Profile (Tree View)</a></li>
 </ul>
 
