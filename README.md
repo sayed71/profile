@@ -43,26 +43,26 @@
 </a>
 </p>
 
-## Career Summary:
+## Career Summary
 I am a highly motivated software engineer interested in back-end and front-end, passionate about learning and developing large-scale projects using modern technologies.
 
-## Education:
+## Education
 - M.Sc in CSE Jagannath University (JnU).
 - B.Sc in CSE at University of Information Technology & Sciences (UITS).
 - Diploma in Computer Technology at Feni Polytechnic Institute.
 
-<!--## Github Stats:
+<!--## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=sayed-masud&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Kazi+Sayed+Hossain's+GitHub+Stats&show_icons=true"/>-->
 
 
-<!--## Github Report:
+<!--## Github Report
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayed71)](https://github.com/sayed71/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayed71&layout=compact&theme=dark)](https://github.com/sayed71/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayed71&show_icons=true&theme=dark)-->
 
 
-## Key Achievements:
+## Key Achievements
 - Most of My Working Experience as a Web Application Developer.
 - Panjeree ERP Software Development using C#.Net WinForms.
 - Panjeree ERP Software (Web Version) Development using ASP.Net WebForms.
@@ -72,7 +72,7 @@ I am a highly motivated software engineer interested in back-end and front-end, 
 - Also, Dynamic Website Development using PHP.
 
 
-## Professional Skills: 
+## Professional Skills
 - Language: ASP.Net WebForms, ASP.Net Core, C#.Net WinForms, PHP, CodeIgniter, JavaScript, jQuery.
 - Database: Microsoft SQL Server, MySQL, Microsoft Access Database 2003.
 - Reporting Tools: SAP Crystal Report (ASP.Net WebForms and C#.Net WinForms), FPDF Library (PHP).
@@ -82,13 +82,13 @@ I am a highly motivated software engineer interested in back-end and front-end, 
 - Development Tools: Visual Studio 2015, Visual Studio 2019, SQL Server 2016, SAP Crystal Report, GitHub, XAMPP/ WAMP, SQLyog, Browser, VS Code, Sublime Text, etc.
 
 
-## Job Experience:
+## Job Experience
 ### Senior Programmer at Panjeree Publications Ltd.
 - Development Technology: ASP.Net WebForms, ASP.Net Core, C#.Net WinForms, PHP, MySQL, MS SQL Server, MS Access 2003, SAP Crystal Report, JavaScript, jQuery, HTML, CSS, jQueryUI, Bootstrap etc.
 - Address: 43, Shilpacharya Zainul Abedin Sarak (Old 16 Shantinagar), Dhaka-121743, Shilpacharya Zainul Abedin Sarak (Old 16 Shantinagar), Dhaka-1217.
 - Website: https://panjeree.com
 
->> Job Responsibilities:
+>> Job Responsibilities
 - Develop any Module Based on Client Requirements.
 - Application Development (Design and Coding).
 - Application Testing and Debugging.
@@ -98,7 +98,7 @@ I am a highly motivated software engineer interested in back-end and front-end, 
 - Maintenance of Existing Software.
 - Also, Some User Support Work.
 
->> Major Projects:
+>> Major Projects
 1. Panjeree ERP System (Web Version).
 2. Panjeree ERP System (Desktop Version).
 3. Panjeree E-commerce (PBS.COM.BD).
@@ -112,10 +112,10 @@ I am a highly motivated software engineer interested in back-end and front-end, 
 - Address: 60 No. Omar Ali Lane (1st floor), Rampura, Dhaka.60 No. Omar Ali Lane (1st floor), Rampura, Dhaka.
 - Website: https://www.spwave.info
 
->> Job Responsibility: 
+>> Job Responsibility
 - Web Application Development Using PHP, CodeIgniter, MySQL, JavaScript, jQuery, Ajax, jQuery UI, jQuery Mobile, Bootstrap, HTML, CSS etc.
 
->> Major Projects:
+>> Major Projects
 1. Modern Herbal (ERP System).
 2. Deposit Management System (Prime Finance).
 3. Stock Portfolio Management System (Prime Finance).
@@ -123,7 +123,7 @@ I am a highly motivated software engineer interested in back-end and front-end, 
 5. Online Attendance Software (CodeIgniter) etc.
 
 
-## Professional Portfolio:
+## Professional Portfolio
 <ul>
 <li><a href="https://sayed71.github.io" title="Portfolio Website">Portfolio Website</a></li>
 <li><a href="https://www.youtube.com/embed/gq-fNaTUf9Y" title="Video Portfolio">Video Portfolio</a></li>
@@ -135,7 +135,7 @@ I am a highly motivated software engineer interested in back-end and front-end, 
 </ul>
 
 
-## Personal Information:
+## Personal Information
 - Name: Kazi Sayed Hossain
 - Email: sayed2k7@gmail.com
 - Linkedin: <a href="https://linkedin.com/in/sayed71" title="Linkedin Profile">linkedin.com/in/sayed71</a></li>
