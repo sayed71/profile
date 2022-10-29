@@ -85,7 +85,7 @@ I am a highly motivated software engineer interested in back-end and front-end, 
 ## Job Experience
 ### Senior Programmer at Panjeree Publications Ltd.
 - Development Technology: ASP.Net WebForms, ASP.Net Core, C#.Net WinForms, PHP, MySQL, MS SQL Server, MS Access 2003, SAP Crystal Report, JavaScript, jQuery, HTML, CSS, jQueryUI, Bootstrap etc.
-- Address: 43, Shilpacharya Zainul Abedin Sarak (Old 16 Shantinagar), Dhaka-121743, Shilpacharya Zainul Abedin Sarak (Old 16 Shantinagar), Dhaka-1217.
+- Address: 43, Shilpacharya Zainul Abedin Sarak (Old 16 Shantinagar), Dhaka-1217.
 - Website: https://panjeree.com
 
 >> Job Responsibilities
@@ -109,7 +109,7 @@ I am a highly motivated software engineer interested in back-end and front-end, 
 
 ### Programmer at SP Wave
 - Development Technology: PHP, MySQL, JavaScript, jQuery, Bootstrap, HTML, CSS etc.
-- Address: 60 No. Omar Ali Lane (1st floor), Rampura, Dhaka.60 No. Omar Ali Lane (1st floor), Rampura, Dhaka.
+- Address: 60 No. Omar Ali Lane (1st floor), Rampura, Dhaka.
 - Website: https://www.spwave.info
 
 >> Job Responsibility
