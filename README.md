@@ -17,7 +17,7 @@
     src="https://img.shields.io/static/v1?label=&message=Last Project&color=blue&style=for-the-badge"
   />
 </a>
-<a href="https://github.com/sayed71/dashboard" target="_blank">
+<a href="https://github.com/sayed71/portfolio" target="_blank">
   <img
     alt="Live Project"
     src="https://img.shields.io/static/v1?label=&message=Live Project&color=blue&style=for-the-badge"
