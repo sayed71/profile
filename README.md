@@ -1,6 +1,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsayed71%2Fprofile%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Portfolio+View&edge_flat=false"/></a>
 
-![2](https://user-images.githubusercontent.com/83280369/196458882-b934edc9-de82-4e5d-88ec-c7734569e14d.png)
+<!--![2](https://user-images.githubusercontent.com/83280369/196458882-b934edc9-de82-4e5d-88ec-c7734569e14d.png)-->
+![7](https://user-images.githubusercontent.com/83280369/199423542-b00d1e9d-fd2d-43e1-955e-ea84b3206e3a.png)
 
 
 
